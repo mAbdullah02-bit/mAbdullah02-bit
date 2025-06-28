@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">👾 Abdullah Shahid 👾</h1>
 
-<!--
-**mAbdullah02-bit/mAbdullah02-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  A Computer Science student at FAST University, passionate about building, learning, and evolving.<br>
+  Always exploring, always improving.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 CS student at **FAST University** with a strong interest in **AI, ML, and DevOps**.
+- 🧠 Constantly learning new frameworks, concepts, and better problem-solving patterns.
+- 🌌 Interested in **future-facing technologies** that can make real-world impacts.
+
+---
+
+### 🧩 What I’m Currently Doing
+- Currently working on **DevOps pipelines and tooling** to improve deployment workflows.
+- Actively improving my **Data Structures & Algorithms** knowledge.
+
+
+---
