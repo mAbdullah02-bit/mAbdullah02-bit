@@ -15,7 +15,7 @@
 ---
 
 ### 🧩 What I’m Currently Doing
-- Currently working on **DevOps pipelines and tooling** to improve deployment workflows.
+- Currently working on **Android Development**.
 - Actively improving my **Data Structures & Algorithms** knowledge.
 
 
